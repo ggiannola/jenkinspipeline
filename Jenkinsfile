@@ -30,7 +30,7 @@ pipeline {
             }
 
             post {
-                sucess {
+                success {
                     echo 'Code deployed to Production.'
                 }
 
